@@ -1,9 +1,8 @@
 //
 //  UIView+Constraints.h
-//  EpocratesEHR
 //
 //  Created by Chris Lavender on 10/23/13.
-//  Copyright (c) 2013 Caretools, Inc. All rights reserved.
+//  Copyright (c) 2013 Chris Lavender All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
